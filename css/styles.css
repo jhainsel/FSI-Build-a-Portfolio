@@ -1,0 +1,28 @@
+div {
+ background-color: orange;   
+ border: 3px dotted purple;
+ cursor: crosshair
+}
+
+img {
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.Title {
+font-family: 'Courier New', Courier, monospace;
+text-align: center
+
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+text-align: center;
+}
+
+.Favorite {
+    text-align: center   
+}
